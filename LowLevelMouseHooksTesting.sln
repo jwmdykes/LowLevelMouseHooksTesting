@@ -5,7 +5,7 @@ VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LowLevelMouseHooksTesting", "LowLevelMouseHooksTesting.vcxproj", "{B8D16290-E705-450C-A28E-5A429D390625}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TraditionalMethod", "..\TraditionalMethod\TraditionalMethod.vcxproj", "{811E17C2-4ED8-42E1-9645-7F2CB392525D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TraditionalMethod", "TraditionalMethod\TraditionalMethod.vcxproj", "{811E17C2-4ED8-42E1-9645-7F2CB392525D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
